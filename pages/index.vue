@@ -1,7 +1,8 @@
 <template>
   <div>
+  <Header :pageInfo="siteInfo" />
     <Navigation />
-    <Header :pageInfo="siteInfo" />
+    
     <Home :pageInfo="siteInfo" />
     <Footer :pageInfo="siteInfo" />
   </div>
