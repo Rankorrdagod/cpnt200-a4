@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{_img:{"/cpnt200-a4/_ipx/w_600/images/three-kits.jpg":"\u002Fcpnt200-a4\u002F_nuxt\u002Fimage\u002Fda7b83.jpg","/cpnt200-a4/_ipx/w_900/images/three-kits.jpg":"\u002Fcpnt200-a4\u002F_nuxt\u002Fimage\u002F1f551d.jpg","/cpnt200-a4/_ipx/w_1000/images/three-kits.jpg":"\u002Fcpnt200-a4\u002F_nuxt\u002Fimage\u002F5b643e.jpg"}}],fetch:{},mutations:void 0});
