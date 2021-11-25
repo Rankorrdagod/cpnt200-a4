@@ -3,9 +3,12 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   target: 'static',
+  router: {
+    base: '/cpnt200-a4/'
+  },
   head: {
-    titleTemplate: '%s - 200-a3',
-    title: '200-a3',
+    titleTemplate: '%s - 200-a4',
+    title: 'KittenZone',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -32,8 +35,7 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
-    // https://go.nuxtjs.dev/eslint
-    '@nuxtjs/eslint-module',
+    '@nuxtjs/tailwindcss',
     // https://go.nuxtjs.dev/vuetify
     '@nuxtjs/vuetify',
     '@nuxt/image',
@@ -48,6 +50,7 @@ export default {
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
     '@nuxt/image',
+    '@nuxtjs/tailwindcss'
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios

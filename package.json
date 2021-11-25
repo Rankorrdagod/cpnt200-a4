@@ -1,5 +1,5 @@
 {
-  "name": "200-a1",
+  "name": "200-a4",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -15,8 +15,8 @@
     "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/pwa": "^3.3.5",
     "core-js": "^3.15.1",
-    "nuxt": "^2.15.7",
-    "vuetify": "^2.5.5"
+    "nuxt": "^2.15.7"
+
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
@@ -28,6 +28,9 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-vue": "^7.12.1",
-    "prettier": "^2.3.2"
+    "prettier": "^2.3.2",
+    "@nuxtjs/tailwindcss": "^4.2.0",
+    "postcss": "^8.3.5",
+    "push-dir": "^0.4.1"
   }
 }
