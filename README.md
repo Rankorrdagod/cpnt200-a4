@@ -1,5 +1,5 @@
 # cpnt200-a4
-- [Netlify](https://app.netlify.com/sites/hardcore-kare-d250a1/overview)
+- [Netlify](https://61a11198b862e80008f93562--hardcore-kare-d250a1.netlify.app/)
 - [Github](https://github.com/Rankorrdagod/cpnt200-a4)
 
 ## Issues
